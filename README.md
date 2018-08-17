@@ -1,6 +1,6 @@
 **Node Express Handlebars**
 
-click to see burger in action:   https://nameless-beach-13071.herokuapp.com/ 
+click to see burger in action:   https://burger-joe.herokuapp.com/
 
 
 **Overview**
